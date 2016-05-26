@@ -73,7 +73,7 @@ else
 end
 
 ITER_MAX=1000;      % maximum inner iteration number (Default)
-ITER_MIN=10;         % minimum inner iteration number (Default)
+ITER_MIN=1;         % minimum inner iteration number (Default)
 
 % Initialization
 W=W0; H=H0;
