@@ -1,5 +1,6 @@
 # QRPBB-method-for-NMF
 A Matlab implementation of the quadratic regularization projected Barzilai–Borwein method for nonnegative matrix factorization.
+
 The accompanying paper can be found at 
 http://link.springer.com/article/10.1007/s10618-014-0390-x
 
