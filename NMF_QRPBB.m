@@ -10,6 +10,8 @@ function [W,H,iter,elapse,HIS]=NMF_QRPBB(V,r,varargin)
 %
 % Written by Yakui Huang (huangyakui2006@gmail.com)
 
+% This code applies to V (m x n) with m > n. If m <=n, applies it to V^T is faster.
+
 
 % <Inputs>
 %        V : Input data matrix (m x n)
