@@ -8,4 +8,6 @@ Please cite the accompanying paper:
 
 Yakui Huang, Hongwei Liu, Shuisheng Zhou. Quadratic regularization projected Barzilai–Borwein method for nonnegative matrix factorization. Data Mining and Knowledge Discovery, 2015, 29(6): 1665-1684.
 
+Remark: This code applies to an input matrix V (m x n) with m > n. If m <=n, applies it to V^T is faster.
+
 On can send comments by email to huangyakui2006@gmail.com. Any comment is welcomed!
